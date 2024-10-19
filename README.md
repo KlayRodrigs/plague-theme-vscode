@@ -12,6 +12,10 @@ The Plague Theme is a dark, immersive visual experience for your coding environm
 - **Vibrant Accents:** Neon touches of color that evoke a sense of urgency and intrigue.
 - **Custom Syntax Highlighting:** Carefully selected colors for various programming constructs to enhance readability.
 
+<img src="image/example-1.png" alt="Plague Theme Example 1" width="600"/>
+<br>
+<img src="image/example-2.png" alt="Plague Theme Example 2" width="600"/>
+
 ## Installation
 
 1. Open Visual Studio Code.
@@ -29,7 +33,7 @@ Once installed, activate the Plague Theme by:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/yourusername/plague-theme).
+Contributions are welcome! Feel free to open issues or submit pull requests on the [GitHub repository](https://github.com/KlayRodrigs/plague-theme-vscode).
 
 ## License
 
