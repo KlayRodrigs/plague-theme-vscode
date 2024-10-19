@@ -1,5 +1,7 @@
 # Plague Theme
 
+<img src="https://github.com/KlayRodrigs/plague-theme-vscode/blob/main/image/plague.jpeg?raw=true" alt="Plague Theme" width="300"/>
+
 ## Overview
 
 The Plague Theme is a dark, immersive visual experience for your coding environment. Inspired by the eerie shadows and haunting hues of historical pestilence, this theme aims to encapsulate the somber yet captivating atmosphere of times long past.

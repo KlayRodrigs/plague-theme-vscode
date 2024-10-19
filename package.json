@@ -1,8 +1,9 @@
 {
   "name": "plague",
-  "displayName": "plague",
+  "displayName": "plague theme",
   "description": "A little at a time, your eyes are closing...",
   "version": "0.0.1",
+  "publisher": "Klayrodrigsdev",
   "icon": "image/plague.jpeg",
   "engines": {
     "vscode": "^1.94.0"
@@ -18,5 +19,10 @@
         "path": "./themes/plague-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KlayRodrigs/plague-theme-vscode.git"
+  },
+  "license": "MIT"
 }
