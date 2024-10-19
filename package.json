@@ -1,0 +1,22 @@
+{
+  "name": "plague",
+  "displayName": "plague",
+  "description": "A little at a time, your eyes are closing...",
+  "version": "0.0.1",
+  "icon": "image/plague.jpeg",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "plague theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/plague-theme.json"
+      }
+    ]
+  }
+}
