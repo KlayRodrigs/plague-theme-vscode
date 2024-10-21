@@ -29,7 +29,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5DD08E"
+				"foreground": "#989E6A"
 			}
 		},
 		{
@@ -179,7 +179,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#fff",
+				"foreground": "#676767",
 				"fontStyle": "bold"
 			}
 		},
