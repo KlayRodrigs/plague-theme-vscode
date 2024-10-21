@@ -2,7 +2,7 @@
   "name": "plague",
   "displayName": "plague theme",
   "description": "A little at a time, your eyes are closing...",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Klayrodrigsdev",
   "icon": "image/plague.jpeg",
   "engines": {
